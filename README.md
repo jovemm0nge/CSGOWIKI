@@ -1,1 +1,1 @@
-# CSGOINFO
+# CSGOWIKI
